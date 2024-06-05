@@ -18,9 +18,16 @@ Designed for efficiency, ensuring smooth performance in real-time applications.
 ### Simple Integration:
 No complex setup needed; just drag and drop into your Unity project and start transcribing.
 
+### Adjustable Quality Settings:
+Fine-tune the quality of transcription, including the capture of tiny, hard, or heavy words.
+
+### Noise Cancellation: 
+Integrated noise cancellation algorithm ensures clean and accurate transcriptions.
+
 # 🛠️ Requirements
 
-Unity Version: 2020 or higher
+* Unity Version: 2020 or higher
+
 # 📥 Installation
 
 Download the Latest Release: Get the latest version from the Releases page. The current version is 2.1.
@@ -37,7 +44,22 @@ Download the Latest Release: Get the latest version from the Releases page. The 
 * Configure Language Models: Add the required language model plugins for multi-language support.
 * Run Your Project: Start your project and enjoy real-time voice transcription capabilities.
 
-#🤝 Contributing
+# 🌐 Language Model Management
+
+* Download and Install Models: 
+Easily download and install language models by clicking on the desired language options shown in the interface.
+* Adjust Model Quality: 
+Customize the layering and quality thrust of the new models to fit your needs.
+* Noise Cancellation: Benefit from built-in noise cancellation to ensure high-quality transcriptions.
+Manage Models: Add, adjust, or delete language models effortlessly. If you don't like a model, you can remove it with a single click.
+
+# 📋 Welcome Window
+* When you start the project, you'll see a Welcome window where you can:
+* Learn about available models and details.
+* Download and install models directly from the interface.
+* Access contact information and fully commented scripts and files for easy understanding and customization.
+
+# 🤝 Contributing
 
 * We welcome contributions to enhance this project. Please fork the repository, make your changes, and submit a pull request. Check out our Contributing Guidelines for more information.
 
@@ -55,6 +77,5 @@ Download the Latest Release: Get the latest version from the Releases page. The 
 
 Thank you for choosing the Unity Real-Time Voice Transcription project! We hope it significantly enhances your Unity applications and projects.
 
- <!-- Replace with an actual image URL for a logo or relevant image -->
 
-Note: Replace placeholders like https://yourimageurl.com, https://github.com/your-repo/releases, https://github.com/your-repo/issues, and other links with actual URLs related to your project.
+Note: Replace placeholders like https://yourimageurl.com, https://github.com/InboraStudio/Unity-Realtime-voice-transcription/releases, https://github.com/InboraStudio/Unity-Realtime-voice-transcription/issues,
