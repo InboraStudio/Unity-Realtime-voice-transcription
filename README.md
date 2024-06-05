@@ -95,4 +95,4 @@ Manage Models: Add, adjust, or delete language models effortlessly. If you don't
 Thank you for choosing the Unity Real-Time Voice Transcription project! We hope it significantly enhances your Unity applications and projects.
 
 
-Note: Replace placeholders like https://yourimageurl.com, https://github.com/InboraStudio/Unity-Realtime-voice-transcription/releases, https://github.com/InboraStudio/Unity-Realtime-voice-transcription/issues,
+Note: https://github.com/InboraStudio/Unity-Realtime-voice-transcription/releases, https://github.com/InboraStudio/Unity-Realtime-voice-transcription/issues,
